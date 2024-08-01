@@ -4,7 +4,6 @@ I'm Priyabrata Behera, a passionate Software Developer and Data Analyst. Welcome
 
 ### 🌱 I’m currently learning
 - React.js
-- Generative AI
 - Advanced data analytics techniques
 
 ### 👯 I’m looking to collaborate on
