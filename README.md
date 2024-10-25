@@ -22,7 +22,7 @@ I'm Priyabrata Behera, a passionate Software Developer and Data Analyst. Welcome
 - Data analytics
 
 ### 📫 How to reach me:
-- Email: [beherapriyabrata2024@gmail.com] 
+- Email: [beherapriyabrata16@gmail.com] 
 - LinkedIn: [PRIYABRATA BEHERA](https://www.linkedin.com/in/priyabrata-behera-5b6216214/)
 
 ### 😄 Pronouns: 
