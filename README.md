@@ -17,7 +17,7 @@ I'm Priyabrata Behera, a passionate Software Developer and Data Analyst. Welcome
 
 ### 💬 Ask me about
 - Java programming
-- C++ programming
+- Web Development
 - Machine learning algorithms
 - Data analytics
 
