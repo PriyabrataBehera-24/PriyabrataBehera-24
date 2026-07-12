@@ -1,13 +1,10 @@
 <!-- README.md -->
 
-[![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)](https://priyabrata-portfolio.vercel.app/)
-
-<h1 align="center">Hi 👋, I'm Priyabrata Behera</h1>
-<h3 align="center">A passionate full-stack developer from India, specializing in building dynamic, user-friendly web applications. With expertise in frontend and backend technologies, I create seamless digital experiences that are both functional and visually appealing.</h3>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500" alt="coding gif"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PriyabrataBehera-24/PriyabrataBehera-24/main/assets/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PriyabrataBehera-24/PriyabrataBehera-24/main/assets/light.svg">
+  <img alt="Priyabrata Behera" src="https://raw.githubusercontent.com/PriyabrataBehera-24/PriyabrataBehera-24/main/assets/dark.svg">
+</picture>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=priyabratabehera-24&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
@@ -16,10 +13,12 @@
 ---
 
 ### 👨‍💻 About me
-- 🌱 I’m currently learning **Next.js, React.js**  
-- 💬 Ask me about **Java, ReactJs, Python, Machine Learning , AI , GEN AI**  
-- 📫 How to reach me: **beherapriyabrata16@gmail.com**  
-- 🌐 Portfolio: [priyabrata-portfolio.vercel.app](https://priyabrata-portfolio.vercel.app/)  
+- 💼 Software Engineer @ **Capgemini Technology Services**, building **Agentic AI** systems with n8n, OpenAI & Gemini APIs
+- 🌱 I'm currently deepening my skills in **LLM/RAG pipelines, Agentic AI & Cloud/MLOps**
+- 💬 Ask me about **Java, Python, React.js, Next.js, Machine Learning, AI, GenAI, Agentic AI**
+- 🎯 Actively exploring **AI Engineer** roles at product-based companies
+- 📫 How to reach me: **beherapriyabrata16@gmail.com**
+- 🌐 Portfolio: [priyabrata-portfolio.vercel.app](https://priyabrata-portfolio.vercel.app/)
 
 ---
 
