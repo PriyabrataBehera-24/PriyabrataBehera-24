@@ -13,7 +13,7 @@
 ---
 
 ### 👨‍💻 About me
-- 💼 Software Engineer @ **Capgemini Technology Services**, building **Agentic AI** systems with n8n, OpenAI & Gemini APIs
+- 💼 Software Engineer @ **Capgemini Technology Services India Limited**
 - 🌱 I'm currently deepening my skills in **LLM/RAG pipelines, Agentic AI & Cloud/MLOps**
 - 💬 Ask me about **Java, Python, React.js, Next.js, Machine Learning, AI, GenAI, Agentic AI**
 - 🎯 Actively exploring **AI Engineer** roles at product-based companies
