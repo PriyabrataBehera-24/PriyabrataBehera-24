@@ -524,21 +524,6 @@
       <text x="644" y="551" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="10" font-weight="700" fill="#F8FAFC">in</text>
     </g>
 
-    <g opacity="0">
-      <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="7.00s" fill="freeze"/>
-      <circle cx="744" cy="547" r="14" fill="#0F172A" stroke="url(#accentGrad)" stroke-width="1.4" filter="url(#softGlow)">
-        <animate attributeName="r" values="14;15.5;14" dur="3s" begin="7.50s" repeatCount="indefinite"/>
-      </circle>
-      <text x="744" y="551" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="10" font-weight="700" fill="#F8FAFC">X</text>
-    </g>
-
-    <g opacity="0">
-      <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="7.15s" fill="freeze"/>
-      <circle cx="844" cy="547" r="14" fill="#0F172A" stroke="url(#accentGrad)" stroke-width="1.4" filter="url(#softGlow)">
-        <animate attributeName="r" values="14;15.5;14" dur="3s" begin="7.65s" repeatCount="indefinite"/>
-      </circle>
-      <text x="844" y="551" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="10" font-weight="700" fill="#F8FAFC">WWW</text>
-    </g>
 
     <rect x="1.5" y="1.5" width="1177" height="607" rx="27" ry="27" fill="none" stroke="url(#borderGrad)" stroke-width="1.5" opacity="0.75"/>
     
