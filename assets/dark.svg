@@ -287,7 +287,7 @@
       <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="3.40s" fill="freeze"/>
       <circle cx="533" cy="387" r="3" fill="url(#accentGrad)"/>
       <text x="546" y="392" font-family="Menlo, Consolas, monospace" font-size="13" fill="#94A3B8">Email:</text>
-      <text x="680" y="392" font-family="Menlo, Consolas, monospace" font-size="13" fill="#F8FAFC">your.email@example.com</text>
+      <text x="680" y="392" font-family="Menlo, Consolas, monospace" font-size="13" fill="#F8FAFC">beherapriyabrata16@gmail.com</text>
     </g>
 
     <text x="530" y="453" font-family="Menlo, Consolas, monospace" font-size="13" fill="#94A3B8" opacity="0">
